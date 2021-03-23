@@ -1,0 +1,14 @@
+{
+  "name": "product-app",
+  "version": "1.0.0",
+  "description": "Learn Express\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Dbiuld\u001b[D\u001buil\u001b[C\u001b[C\u001b app with express js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TheZayZay",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
